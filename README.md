@@ -1,4 +1,4 @@
-# Light-weight_model_of_Face_recognition(under the constrain of low volumn's dataset)
+# Light-weight model of Face_recognition(under the constrain of low volumn's dataset)
 --------------------------------
 ## Brief Introduction of the Work
 
