@@ -5,7 +5,7 @@
 
 This is like a cozy little deep-learning adventure for beginners in the realm of face recognition. We dabbled with PCA to shrink down those face images and played around with a bunch of NCC models. Also, we threw in a fancy comparative analysis and report, comparing the good ol' CNN with the pre-trained FaceNet model by the legendary Tanai, H. Fun times! 
 
-_Addapted from our coursework of **G0191-XMUM (given by Prof.Wang Han)**._
+_Addapted from our coursework of **G0191-XMUM (Winter-2022, given by Prof.Wang Han)**._
 
 ## Brief Introduction of the Work
 
